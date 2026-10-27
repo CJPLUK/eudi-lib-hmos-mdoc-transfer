@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "eudi_cjmdoc_transfer",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

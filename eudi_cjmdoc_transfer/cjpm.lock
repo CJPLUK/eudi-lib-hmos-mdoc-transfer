@@ -1,0 +1,4 @@
+version = 0
+
+[requires]
+  cbor4cj = {git = "https://github.com/CJPLUK/cbor4cj", commitId = "485748b31fb525b422077858d188e31c4140cf1c", branch = "eudi-fixes"}
